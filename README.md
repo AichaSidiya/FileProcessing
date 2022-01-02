@@ -2,7 +2,17 @@
 # File Processing
 <!--Content Table-->
 ## Content
-
+- [File Processing](#file-processing)
+  * [Content](#content)
+  * [Purpose](#purpose)
+  * [Description](#description)
+  * [Getting Started](#getting-started)
+    + [Dependencies](#dependencies)
+    + [Installing](#installing)
+    + [Executing program](#executing-program)
+      - [How to run the program](#how-to-run-the-program)
+  * [Authors](#authors)
+  * [Acknowledgments](#acknowledgments)
 
 ## Purpose
 <!--Purpose of the project-->
