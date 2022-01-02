@@ -20,34 +20,33 @@ The project is a menu driven program divided into multiple functions. The progra
 ### Dependencies
 
 <!--Link to install the latest version of g++-->
-* You will need to have the latest version of g++ to run the program. g++ 8.1.0 (MinGW), a link is provided.
-* [g++ 8.1.0 (MinGW)](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download)
+* You will need to have Python 3 installed, a link is provided.
+* [Python3)](https://www.python.org/downloads/)
 
 ### Installing
 <!--Steps of Installation-->
-* Download the g++ compiler and intall it. 
+* Download python3 the website gives you a download option that downloads the python suited for your laptop whether it was windows, macstonish or linux.
+* Install python 3
+* Verify python is insalled by typing
+```
+python
+```   
+in your command prompt
 * Download the zip file and create a folder for it.
+* Create a .txt file composed of a list of words one word in each line and add it to the same folder where you python file is.
 
 ### Executing program
 <!--Steps for running the program-->
 #### How to run the program
-* Look for Run Terminal in your search bar
-* Open it and use the:
-<!--commands to run the program "cd" change directory to where your files are-->
+* Type 
 ```
-cd 
+cmd
 ```
-command to go to the specified directory.
-* Use
-<!--commands to run the program "make project" compile the program--> 
-```
-make project 
-```
-to compile the all the project files.
+in the file path then the command prompt will open
 * Than type 
-<!--commands to run the program "project" run and executes program-->
+
 ```
-project 
+python file_processor.py 
 ```
 to execute and run the program.
 
