@@ -60,10 +60,7 @@ to execute and run the program.
 
 ## Acknowledgments
 <!-- Insparation files, codes, and general refrences used in writing the code of the project-->
-* Book - C++ Programming. Program Design including Data Structures by D.S. Malik
-* StatArray.h
-* [Dynamic Array](https://www2.cs.sfu.ca/CourseCentral/225/johnwill/lab_arrays_intro.html)
-* [C++ Pre-processor](https://doc.bccnsoft.com/docs/cppreference_en/preprocessor/all.html)
-* [C++ documentation](https://www.cplusplus.com/doc/)
+* Book - Starting Out with Python FOURTH EDITION by Tony Gaddis
+* [Remove All Occurences](https://www.geeksforgeeks.org/remove-all-occurrences-of-a-character-in-a-string/)
 * [Readme Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
 * [Readme Content](https://ecotrust-canada.github.io/markdown-toc/)
