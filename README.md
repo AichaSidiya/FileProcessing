@@ -6,13 +6,13 @@
 
 ## Purpose
 <!--Purpose of the project-->
-This poject is a Stars University database. The purpose of this project is to build a menu driven program using multiple class to display the Stars University database information. 
+This poject is a file processing program. The purpose of this project is to build a menu driven program using multiple function to edit a given input file and save the edited version in an output file. 
 
 <!--Header 2 description of the project-->
 ## Description
 
 <p style="text-align: justify">
-The project is a menu driven program divided into multiple class. The program should display the menu and asks the user to choose whether to display the student information extrated from the Student class and DynArray class, or display the course information using the Course and StatArray class, display the Taken objects which are the information of a course taken by a particular student the program uses the Taken and School class to diplay the information. Finally, the user can add a Taken object using the DynArray class. The flow of the project is implemented in the Control class and the View is used to display the menu.</p> 
+The project is a menu driven program divided into multiple functions. The program starts by asking the for the input file that should contain a list of words one word in each line, the file should be a .txt file. Then the program will display the content of the file and create a list of all the words in the file using the **write_file** function. Then the program should display the menu and asks the user to choose whether to sort the list in ascending order using the **sort_list** function, sort the list in descending order using the **sort_list_desc** function, reverse the list using the **reverse_list** function, add a given word to the end of the list using the **add_word** function, add a line using the **add_line** function, remove a given word using the remove_word function and remove all occurences of a given word using the **remove_all_occurence** function. Each of these function uses the already built in function for lists in python such as sort, append, reverse, remove ... After the user chooses the option he wants he will be asked to provide the name of his output file. The edited list will be displayed along with the content of the output file. Finally the control will go back to repeat wich will keep on running the program as long as the user wants to edit a file and on each run he can edited a new file by providing its name.</p> 
 
 <!--Header 3 installation and launching the project-->
 ## Getting Started
