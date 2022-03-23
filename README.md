@@ -17,7 +17,6 @@
 ## Purpose
 <!--Purpose of the project-->
 This poject is a file processing program. The purpose of this project is to build a menu driven program using multiple function to edit a given input file and save the edited version in an output file.
-just a test
 
 <!--Header 2 description of the project-->
 ## Description
