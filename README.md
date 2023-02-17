@@ -10,7 +10,7 @@ This poject is a file processing program. The purpose of this project is to buil
 ## Description
 
 <p style="text-align: justify">
-The project is a menu driven program divided into multiple functions. The program starts by asking the for the input file that should contain a list of words one word in each line. Then the program will display the content of the file and add it to a list. Then the program should display the menu for the user to choose from it. After the user chooses the option he wants he will be asked to provide the name of his output file. The edited list will be displayed along with the content of the output file. The programs runs until theuser has no more files o edit. 
+The project is a menu driven program divided into multiple functions. The program starts by asking the for the input file that should contain a list of words one word in each line. Then the program will display the content of the file and add it to a list. Then the program should display the menu for the user to choose from it. After the user chooses the option he wants he will be asked to provide the name of his output file. The edited list will be displayed along with the content of the output file. The programs runs until theuser has no more files o edit.</p>
 
 
 ## Menu
