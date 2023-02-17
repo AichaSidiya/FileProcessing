@@ -6,11 +6,7 @@
   * [Content](#content)
   * [Purpose](#purpose)
   * [Description](#description)
-  * [Getting Started](#getting-started)
-    + [Dependencies](#dependencies)
-    + [Installing](#installing)
-    + [Executing program](#executing-program)
-      - [How to run the program](#how-to-run-the-program)
+  * [How to run the program](#how-to-run-the-program)
   * [Authors](#authors)
   * [Acknowledgments](#acknowledgments)
 
@@ -36,40 +32,19 @@ The project is a menu driven program divided into multiple functions. The progra
 * (7) Remove occurences
 
 <!--Header 3 installation and launching the project-->
-## Getting Started
-
-### Dependencies
-
-<!--Link to install the latest version of g++-->
-* You will need to have Python 3 installed, a link is provided.
-* [Python3)](https://www.python.org/downloads/)
-
-### Installing
-<!--Steps of Installation-->
-* Download python3 the website gives you a download option that downloads the python suited for your laptop whether it was windows, macstonish or linux.
-* Install python 3
+## How to run the program
+* Install [Python3](https://www.python.org/downloads/)
 * Verify python is insalled by typing
 ```
 python
 ```   
 in your command prompt
-* Download the zip file and create a folder for it.
-* Create a .txt file composed of a list of words one word in each line and add it to the same folder where you python file is.
-
-### Executing program
-<!--Steps for running the program-->
-#### How to run the program
-* Type
-```
-cmd
-```
-in the file path then the command prompt will open
-* Than type
+* Create a .txt file that you wish to edit: composed of a list of words one word in each line and add it to the same folder where you python file is.
+* Execute the program using: 
 
 ```
 python file_processor.py
 ```
-to execute and run the program.
 
 ## Authors
 <!-- The contributors to the project-->
