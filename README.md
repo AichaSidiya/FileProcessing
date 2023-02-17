@@ -32,14 +32,17 @@ The project is a menu driven program divided into multiple functions. The progra
 * (7) Remove occurences
 
 <!--Header 3 installation and launching the project-->
-## How to run the program
+## Installation
+* Clone the repository to your local machine:
+```
+git clone https://github.com/AichaSidiya/FileProcessing.git
+``` 
 * Install [Python3](https://www.python.org/downloads/)
 * Verify python is insalled by typing
 ```
 python
 ```   
 in your command prompt
-* Create a .txt file that you wish to edit: composed of a list of words one word in each line and add it to the same folder where you python file is.
 * Execute the program using: 
 
 ```
