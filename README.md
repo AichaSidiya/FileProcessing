@@ -32,7 +32,7 @@ The project is a menu driven program divided into multiple functions. The progra
 * (7) Remove occurences
 
 <!--Header 3 installation and launching the project-->
-## Installation
+## How to run the program
 * Clone the repository to your local machine:
 ```
 git clone https://github.com/AichaSidiya/FileProcessing.git
